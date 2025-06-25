@@ -1,7 +1,6 @@
-package com.kamath.timetrackersdk
+package com.kamath.timetracker
 
 import android.util.Log
-
 
 object TimeTracker{
     private val startTimes = mutableMapOf<String,Long>()
